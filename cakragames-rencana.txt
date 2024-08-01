@@ -1,3 +1,7 @@
 rencana program gw
 buat website
 buat server
+-html
+-css
+-javascipt
+
