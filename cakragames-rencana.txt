@@ -8,4 +8,5 @@ buat server
 -css
 -javascipt
 -belajar sangat giat
+debelum tidur juga sempatkan belajar
 
