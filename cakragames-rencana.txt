@@ -2,8 +2,10 @@ rencana program gw
 buat website
 cita cita 6minimal 5tahun
 punya gaji 200jt
+gaji 500jt####
 buat server
 -html
 -css
 -javascipt
+-belajar sangat giat
 
